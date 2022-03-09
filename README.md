@@ -1,2 +1,4 @@
-# hello-world
-just a practice
+
+基于《Linux高性能服务器编程》中C++轻量级Web服务器的改进项目，新增了对POST请求方法的解析支持，并结合Mysql服务器支持Web用户的注册、登录功能。用户登录后可访问服务器的静态资源。
+系统环境：ubuntu 18.04
+编译方式：当前路径下：make
